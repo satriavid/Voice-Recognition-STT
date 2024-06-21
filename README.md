@@ -1,4 +1,4 @@
-# Voice Recognition with Whisper and MINDS14
+# Voice Recognition (Speech-To-Text) with Whisper and MINDS14
 
 Welcome to the Voice Recognition project using the Whisper model and the MINDS14 dataset! This project focuses on performing speech-to-text transcription and evaluating the performance of the Whisper model on the MINDS14 dataset. This is a project as a part of AI Bootcamp Program by Indonesia AI.
 
